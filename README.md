@@ -3,7 +3,8 @@
 A beginner-built hexapod robot project documenting the full process of designing a six-legged walking robot from scratch in Fusion 360, with the goal of taking the model from rough concept to printable mechanical parts and, later, to a functioning servo-driven robot.
 
 This project started as an attempt to learn by doing: studying existing joint ideas, getting comfortable with CAD, and gradually turning separate leg concepts into a complete hexapod body. Over several build sessions, the design progressed from early joint experiments to a full main chassis, a finished single leg, a lid and outer shell, and then a refined version with proper servo mounting spaces and holes for assembly and printing.
-
+## Why did i want to make this project?
+I saw a hexapod in a movie, and it looked really cool. It would be even cooler to include one in my maker portfolio >:)
 ## Current Status
 
 The mechanical design is currently focused on:
