@@ -71,10 +71,14 @@ The design was then revised to improve mounting holes, servo clearances, and gen
 
 
 
-## BOM
-- x1 Mini Maestro 24-channel USB servo controller(https://aliexpress.ru/item/1005010130773880.html?shpMethod=CAINIAO_STANDARD&sku_id=12000051249532312&spm=a2g2w.productlist.search_results.5.7fa43fb3S3rHid)
-- x18 standart servo SPT5410LV(https://aliexpress.ru/item/1005007047029542.html?spm=a2g2w.detail.rcmdprod.2.817f47d1sq2Tmm&mixer_rcmd_bucket_id=controlRu3&pdp_trigger_item_id=0_4001279107637&ru_algo_pv_id=118ff2-61b690-d91318-a516da-1774508400&scenario=aerSimilarItemPdpRcmd&sku_id=12000039213827335&traffic_source=recommendation&type_rcmd=core)
-- x1 battery GNB LiPo Battery 2S 7.4V 550mah 90C/180C 7.4V(https://ozon.kz/product/1-sht-akkumulyator-gnb-lipo-battery-2s-7-4v-550mah-90c-180c-7-4v-3295553165/?at=ywtAWgOKqu5WL706H5M1G0GiP47njBcm80GZptG28G7p)
-- x1 on/off switch XT60(https://aliexpress.ru/item/1005011561068930.html?shpMethod=CAINIAO_SUPER_ECONOMY&sku_id=12000055923969395&spm=a2g2w.productlist.search_results.2.52615b04w40B9X)
-- x1 step-down voltage regulator LM2596(https://aliexpress.ru/item/4001202088404.html?shpMethod=CAINIAO_SUPER_ECONOMY&sku_id=10000015286103974&spm=a2g2w.productlist.search_results.2.4bf13a6aifLjv3)
-- x1 Hobbywing 10A UBEC voltage regulator for models(https://aliexpress.ru/item/1005004887844653.html?shpMethod=CAINIAO_STANDARD&sku_id=12000056582317936&spm=a2g2w.productlist.search_results.0.606e26cb3K3j09)
+## BOM LIST
+
+| Name                                          | Purpose                                                                 | Qty | Total Cost (USD) | Link | Distributor |
+|-----------------------------------------------|-------------------------------------------------------------------------|-----|------------------|------|-------------|
+| MG996R Servo (Metal Gear, High Torque)        | Actuates joints and supports mechanical load                            | 18  | 84.60            | [Link](https://www.waveshare.com/mg996r-servo.htm) | Waveshare |
+| Hobbywing 10A UBEC Voltage Regulator          | Provides stable 5V/6V power for servos and electronics                  | 1   | 18.36            | [Link](https://aliexpress.ru/item/1005004887844653.html?sku_id=12000056582317936) | aliexpress |
+| LM2596 Step-Down Voltage Regulator            | Adjustable DC-DC converter to reduce input voltage                      | 1   | 0.87             | [Link](https://aliexpress.ru/item/4001202088404.html?sku_id=10000015286103974) | aliexpress |
+| XT60 On/Off Switch                            | Inline switch for safely controlling battery power                      | 1   | 3.04             | [Link](https://aliexpress.ru/item/1005011561068930.html?sku_id=12000055923969395) | aliexpress |
+| GNB LiPo Battery 2S 7.4V 550mAh 90C/180C      | High-discharge battery for powering servos and electronics              | 1   | 8.24             | [Link](https://ozon.kz/product/1-sht-akkumulyator-gnb-lipo-battery-2s-7-4v-550mah-90c-180c-7-4v-3295553165/) | ozon |
+| PCA9685 Servo Driver Module (16-Channel)      | Controls multiple servos with precise PWM timing                        | 2   | 5.24             | [Link](https://aliexpress.ru/item/1005009393933233.html?sku_id=12000048963004495) | aliexpress |
+
