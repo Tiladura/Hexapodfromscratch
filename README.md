@@ -48,6 +48,8 @@ A lid with a snapping mechanism was added, along with the first complete render 
 The design was then revised to improve mounting holes, servo clearances, and general readiness for full 3D printing and real assembly.
 <img width="795" height="459" alt="image" src="https://github.com/user-attachments/assets/38a333d9-7b77-4a56-9c61-c023534fbd70" />
 
+## Wiring
+<img width="1311" height="763" alt="image" src="https://github.com/user-attachments/assets/25214fca-a26d-479e-b43f-301e7926cfc7" />
 
 ## Planned Features
 
@@ -69,8 +71,8 @@ The design was then revised to improve mounting holes, servo clearances, and gen
 <img width="531" height="351" alt="image" src="https://github.com/user-attachments/assets/0d041c40-3c03-4f69-9df1-4eaf1dc99984" />
 <img width="838" height="507" alt="image" src="https://github.com/user-attachments/assets/21d3aa0e-1fa4-41bd-b068-089af0af310d" />
 
-## Highly detailed wiring scheme
-<img width="353" height="326" alt="image" src="https://github.com/user-attachments/assets/63c7b044-2fdd-47a4-9ef9-c9083f357c2d" />
+
+
 
 
 
