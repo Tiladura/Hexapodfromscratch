@@ -49,7 +49,8 @@ The design was then revised to improve mounting holes, servo clearances, and gen
 <img width="795" height="459" alt="image" src="https://github.com/user-attachments/assets/38a333d9-7b77-4a56-9c61-c023534fbd70" />
 
 ## Wiring
-<img width="1639" height="743" alt="image" src="https://github.com/user-attachments/assets/38449dd0-69ad-41f0-8a82-9c35418449ce" />
+<img width="1436" height="733" alt="image" src="https://github.com/user-attachments/assets/2c9f2245-74ba-4676-8977-bc733d2d59ed" />
+
 
 
 ## Planned Features
