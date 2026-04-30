@@ -30,23 +30,23 @@ The current hardware direction includes an Arduino Uno, a Mini Maestro 24-channe
 
 ### Early concept and CAD learning
 The first stage focused on researching hexapod joint designs and learning how to work inside Fusion 360 while recreating possible leg mechanisms.
-<img width="1027" height="617" alt="image" src="https://github.com/user-attachments/assets/4ebe55ac-fc83-4bc5-aa29-e4f1e51b809e" />
-<img width="852" height="657" alt="image" src="https://github.com/user-attachments/assets/7aa0d6fe-f430-4094-a22c-9444dd6fb89d" />
-![WIN_20260327_15_18_06_Pro](https://github.com/user-attachments/assets/1920af10-351d-4ce5-b620-b541597439be)
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/4ebe55ac-fc83-4bc5-aa29-e4f1e51b809e" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7aa0d6fe-f430-4094-a22c-9444dd6fb89d" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1920af10-351d-4ce5-b620-b541597439be" />
 
 
 ### First full body iteration
 The next stage produced the main body, a complete single leg, and the first concrete plan for electronics and power placement inside the chassis.
-<img width="493" height="336" alt="image" src="https://github.com/user-attachments/assets/8fc8958d-6dea-4ac3-a603-070e2f4bfd43" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8fc8958d-6dea-4ac3-a603-070e2f4bfd43" />
 
 
 ### Enclosure and overall form
 A lid with a snapping mechanism was added, along with the first complete render showing how the legs and body would look as one system.
-<img width="909" height="522" alt="image" src="https://github.com/user-attachments/assets/e7c283d5-8802-4226-a8b4-5c7b15fbac32" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e7c283d5-8802-4226-a8b4-5c7b15fbac32" />
 
 ### Printability refinement
 The design was then revised to improve mounting holes, servo clearances, and general readiness for full 3D printing and real assembly.
-<img width="795" height="459" alt="image" src="https://github.com/user-attachments/assets/38a333d9-7b77-4a56-9c61-c023534fbd70" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/38a333d9-7b77-4a56-9c61-c023534fbd70" />
 
 ## Wiring
 <img width="1436" height="733" alt="image" src="https://github.com/user-attachments/assets/2c9f2245-74ba-4676-8977-bc733d2d59ed" />
@@ -69,9 +69,9 @@ The design was then revised to improve mounting holes, servo clearances, and gen
 
 
 ### Disassembled 3D parts ready for printing
-<img width="949" height="550" alt="image" src="https://github.com/user-attachments/assets/e970e6f0-1ac6-4fc8-aa35-501954338715" />
-<img width="531" height="351" alt="image" src="https://github.com/user-attachments/assets/0d041c40-3c03-4f69-9df1-4eaf1dc99984" />
-<img width="838" height="507" alt="image" src="https://github.com/user-attachments/assets/21d3aa0e-1fa4-41bd-b068-089af0af310d" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e970e6f0-1ac6-4fc8-aa35-501954338715" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/0d041c40-3c03-4f69-9df1-4eaf1dc99984" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/21d3aa0e-1fa4-41bd-b068-089af0af310d" />
 
 
 
